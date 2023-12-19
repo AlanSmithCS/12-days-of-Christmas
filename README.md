@@ -14,6 +14,5 @@ There are several different methods which I tried, each subsequent one becoming 
    - [Method_4](https://github.com/AlanSmithCS/12-days-of-Christmas/tree/main/Method_4)
 5. Converting to binary and using LZ77 to compress before decompressing in a separate file (```UNFINISHED```)
    - [Method_5](https://github.com/AlanSmithCS/12-days-of-Christmas/tree/main/Method_5)
-(BONUS:```UNFINISHED```)
-6. Python reading file name and using LZW decompression
+6. BONUS: Python reading file name and using LZW decompression (```UNFINISHED```)
    - [Method_6](https://github.com/AlanSmithCS/12-days-of-Christmas/tree/main/Method_6)
