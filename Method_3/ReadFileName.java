@@ -1,4 +1,4 @@
-package Method_2;
+package Method_3;
 
 public class ReadFileName {
     public static void main(String args[]) {
