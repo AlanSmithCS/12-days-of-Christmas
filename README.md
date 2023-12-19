@@ -16,3 +16,4 @@ There are several different methods which I tried, each subsequent one becoming 
    - [Method_5](https://github.com/AlanSmithCS/12-days-of-Christmas/tree/main/Method_5)
 (BONUS:```UNFINISHED```)
 6. Python reading file name and using LZW decompression
+   - [Method_6](https://github.com/AlanSmithCS/12-days-of-Christmas/tree/main/Method_6)
