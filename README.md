@@ -6,7 +6,7 @@ There are several different methods which I tried, each subsequent one becoming 
 
 1. Printing the entire lyrics on one line (```2501 bytes```)
    - [Method_1](https://github.com/AlanSmithCS/12-days-of-Christmas/tree/main/Method_1)
-2. Using loops and string arrays to avoid repetition (```635 bytes```)
+2. Using loops and string arrays to avoid repetition (```622 bytes```)
    - [Method_2](https://github.com/AlanSmithCS/12-days-of-Christmas/tree/main/Method_2)
 3. Normal LZW decompression (```x bytes```)
    - [Method_3](https://github.com/AlanSmithCS/12-days-of-Christmas/tree/main/Method_3)
