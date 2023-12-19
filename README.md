@@ -6,11 +6,11 @@ There are three different methods which I tried, each subsequent one becoming sl
 
 1. Printing the entire lyrics on one line (```2501 bytes```)
    - [Method_1](https://github.com/AlanSmithCS/12-days-of-Christmas/tree/main/Method_1)
-2. Using loops and string arrays to avoid repetition (```649 bytes```)
-   - [Method_2](https://github.com/AlanSmithCS/12-days-of-Christmas/tree/main/Method_1)
-3. Normal LZW decompression
-   - [Method_3](https://github.com/AlanSmithCS/12-days-of-Christmas/tree/main/Method_2)
-4. Reading the compressed form from the class/file name
-   - [Method_4](https://github.com/AlanSmithCS/12-days-of-Christmas/tree/main/Method_3)
-5. converting to binary and using LZ77 to compress before decompressing in a separate file
-   - [Method_5](#)
+2. Using loops and string arrays to avoid repetition (```644 bytes```)
+   - [Method_2](https://github.com/AlanSmithCS/12-days-of-Christmas/tree/main/Method_2)
+3. Normal LZW decompression (```x bytes```)
+   - [Method_3](https://github.com/AlanSmithCS/12-days-of-Christmas/tree/main/Method_3)
+4. Reading the compressed form from the class/file name (```x bytes```)
+   - [Method_4](https://github.com/AlanSmithCS/12-days-of-Christmas/tree/main/Method_4)
+5. Converting to binary and using LZ77 to compress before decompressing in a separate file (```x bytes```)
+   - [Method_5](https://github.com/AlanSmithCS/12-days-of-Christmas/tree/main/Method_5)
