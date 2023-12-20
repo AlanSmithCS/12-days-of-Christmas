@@ -1,5 +1,1 @@
-public class Y {
-    public static void main(String args[]) {
-        System.out.println("hi there");
-    }
-}
+public class Y {public static void main(String a[]){System.out.println("Method 4");}}
